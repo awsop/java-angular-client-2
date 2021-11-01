@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  productoURL: 'http://spring-angular.us-west-2.elasticbeanstalk.com/producto/'
+  productoURL: 'http://3.110.38.238:30001//producto/'
 };
